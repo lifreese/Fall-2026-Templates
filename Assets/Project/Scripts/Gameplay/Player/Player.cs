@@ -31,6 +31,8 @@ namespace LevelDesign.Systems.Player
 
         #region Unity Calls
         private void OnEnable() {
+            Application.targetFrameRate = 30;
+
             if(e_killPlayer != null) {
                 e_killPlayer.OnKillRequested += KillPlayer;
             }
