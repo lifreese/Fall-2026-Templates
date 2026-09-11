@@ -32,6 +32,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Door_Pad_Yellow
       objectReference: {fileID: 0}
+    - target: {fileID: 7340762354005790249, guid: 70285a0b03a28b34184e15dab4447761, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340762354005790249, guid: 70285a0b03a28b34184e15dab4447761, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340762354005790249, guid: 70285a0b03a28b34184e15dab4447761, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340762354005790249, guid: 70285a0b03a28b34184e15dab4447761, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340762354005790249, guid: 70285a0b03a28b34184e15dab4447761, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -37.61
+      objectReference: {fileID: 0}
     - target: {fileID: 8566692494728768960, guid: 70285a0b03a28b34184e15dab4447761, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.030462
