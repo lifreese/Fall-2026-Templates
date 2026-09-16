@@ -48,7 +48,7 @@ namespace LevelDesign.Systems.Player
             
                 healthBar.SetProgress(player.healthM.Normalized);
 
-                keyCounter.text = keyCount + "/3";
+                keyCounter.text = keyCount + "/4";
             }
             else {
                 gameOverUI.SetActive(true);
